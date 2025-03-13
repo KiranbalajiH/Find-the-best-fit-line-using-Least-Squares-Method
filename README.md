@@ -84,7 +84,9 @@ if sorted_errors is not None:
 ```
 
 ## Output:
-![best fit line](sam.png)
+![best fit line]
+![ml expe 1 pic](https://github.com/user-attachments/assets/c4a94e36-b751-4a36-97ea-3ff26186ad26)
+
 
 
 ## Result:
